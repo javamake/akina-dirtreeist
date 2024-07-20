@@ -5,17 +5,17 @@ const symbolSets: {
 } = {
   normal: {
     vertical: '│',
-    horizontal: '─',
+    horizontal: '──■',
     crossing: '├',
     end: '└',
-    space: '　',
+    space: '   ',
   },
   bold: {
     vertical: '┃',
-    horizontal: '━',
+    horizontal: '━━■',
     crossing: '┣',
     end: '┗',
-    space: '　',
+    space: '　 ',
   },
   ascii: {
     vertical: '|',
